@@ -1,0 +1,16 @@
+[
+{
+  "modid": "magicage",
+  "name": "Magic Age",
+  "description": "Like's First Mod In Minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Likeflysy"],
+  "credits": "likeflysy",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
